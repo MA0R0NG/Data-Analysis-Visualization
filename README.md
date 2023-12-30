@@ -1,2 +1,2 @@
-# Data-Analysis-Visualization
-This repository contains my Data Analytics portfolio projects ranging from SQL, Python, Tableau.
+# A Comprehensive Analysis of Global Movie Trends on Streaming Platforms
+The goal of this project is to analyze movie data from four streaming platforms (Netflix, PrimeVideo, Hulu, Disney Plus). Through the Python programming environment, especially using libraries such as Pandas, NumPy, Matplotlib, and Seaborn, we completed the loading, cleaning, transformation, query, and visualization of data. The dataset contains 16 different attributes such as movie title, year of release, IMDb rating, availability of streaming platforms, etc.
